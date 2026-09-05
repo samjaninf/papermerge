@@ -1,8 +1,23 @@
-<h1 align="center">Papermerge DMS</h1>
+# ⚠️ ARCHIVED - See papermerge-core
 
-<p align="center">
-<img src="./artwork/logo-w160px.png" />
-</p>
+This repository is archived. Papermerge development has moved to:
+
+→ **[papermerge/papermerge-core](https://github.com/papermerge/papermerge-core)**
+
+For the latest open-source version, issues, PRs, and maintainer opportunities, 
+go to the organization repository above.
+
+---
+
+# ⚠️ Important
+
+After 9 years of OSS development, I'm now focusing on Papermerge Cloud (SaaS).
+The OSS version is seeking active maintainers.
+
+Interested in maintaining Papermerge OSS? 
+→ [See GitHub issue #1318](https://github.com/papermerge/papermerge-core/issues/1318)
+
+------
 
 Papermerge DMS or simply Papermerge is a open source document management
 system designed to work with scanned documents (also called digital
